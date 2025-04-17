@@ -50,3 +50,5 @@ Main folders
 - internal error code for different api errors
 - update the weather api to use latest available `3.0`
 - create tests
+
+
