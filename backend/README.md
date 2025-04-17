@@ -52,6 +52,7 @@ Main folders
 - create tests
 - handle multiple city coordinates in the response
 - openapi file to handle endpoints documentation
+- create custom `Error` types
 
 ## How to run locally
 

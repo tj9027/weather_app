@@ -78,6 +78,7 @@ Main differences from the Vite boilerplate.
 - create tests
 - verify `health` of backend api before load and handle error accordingly
 - add `dropdown select` in case multiple city matches the user `input` string 
+- create custom `Error` types for better error handling
 
 ## How to run locally
 
